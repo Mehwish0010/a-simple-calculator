@@ -39,3 +39,4 @@ else if (answer.operators==="Exponentiation"){
 else{
     console.log(chalk.underline.redBright("PLEASE ENTER A VALID INPUT"))
 }
+console.log("Function performed successsfully...");
